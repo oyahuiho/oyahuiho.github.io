@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyahuiho.github.io/SVU/sitemap_index.txt
+Sitemap: https://oyahuiho.github.io/fiP/sitemap_index.txt
+Sitemap: https://oyahuiho.github.io/ihe/sitemap_index.txt
+Sitemap: https://oyahuiho.github.io/vNe/sitemap_index.txt
